@@ -1,2 +1,2 @@
 # Pomodoro-Python
-Pomodoro timer for self use :)
+Really simple pomodoro timer for self use :)
