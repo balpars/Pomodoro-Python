@@ -1,2 +1,7 @@
 # Pomodoro-Python
-Really simple pomodoro timer for self use :)
+
+### Personal Project
+ 
+ ## Future improvements
+ - [ ] Better GUI
+ - [ ] Visual Animations
